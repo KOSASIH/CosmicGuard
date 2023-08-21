@@ -8,8 +8,7 @@
 3. [Problem We Hope To Solve](#problem-we-hope-to-solve)
 4. [Our Technologies](#our-technologies)
 5. [Contribution](#contribution)
-6. 
-7. [Our Roadmap](#Our-Roadmap)
+6. [Our Roadmap](#Our-Roadmap)
 8. 
 
 
@@ -134,12 +133,6 @@ The CosmicGuard app leverages a combination of cutting-edge technologies to achi
 By integrating these technologies, CosmicGuard aims to offer a comprehensive, real-time, and intelligent solution for addressing the challenges posed by space debris in Earth's orbit.
 
 # Contribution 
-
-# CosmicGuard
-
-Welcome to the CosmicGuard project repository! We're excited to have you contribute to the mission of responsible space debris management. Below are guidelines for contributing to CosmicGuard and information about the project's licensing.
-
-## Contribution Guide
 
 We value and encourage contributions from the community to help improve CosmicGuard. Whether you're a developer, designer, researcher, or space enthusiast, there are several ways you can contribute:
 
