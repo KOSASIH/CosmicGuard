@@ -4,6 +4,7 @@
 # Content 
 
 1. [Introduction](#introduction)
+    - [Key Features](#key-features) 
 2. [Vision and Mission](#vision-and-mission)
 3. [Problem We Hope To Solve](#problem-we-hope-to-solve)
 4. [Our Technologies](#our-technologies)
