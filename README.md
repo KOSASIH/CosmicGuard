@@ -18,7 +18,7 @@
 
 CosmicGuard is an innovative and intelligent solution aimed at addressing the growing concern of space debris around Earth's orbit. The project focuses on developing an autonomous space debris detection system that utilizes cutting-edge artificial intelligence (AI) and image analysis techniques. By leveraging AI algorithms, CosmicGuard aims to identify and track space debris in real-time, contributing to the safety of both operational spacecraft and future space missions.
 
-**Key Features:**
+## Key Features:
 
 1. **Advanced Image Analysis:** CosmicGuard employs advanced image recognition algorithms, trained on a vast dataset of space debris images. This enables the system to quickly and accurately identify potential threats from cluttered images captured by telescopes and space-based cameras.
 
