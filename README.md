@@ -6,8 +6,9 @@
 1. [Description](#description)
 2. [Vision and Mission](#vision-and-mission)
 3. [Problem We Hope To Solve](#problem-we-hope-to-solve)
-4. [Technology We Use]
-
+4. [Our Technologies](#our-technologies)
+5. [Our Roadmap](#Our-Roadmap)
+6. 
 
 
 
