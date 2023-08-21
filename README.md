@@ -7,8 +7,10 @@
 2. [Vision and Mission](#vision-and-mission)
 3. [Problem We Hope To Solve](#problem-we-hope-to-solve)
 4. [Our Technologies](#our-technologies)
-5. [Our Roadmap](#Our-Roadmap)
+5. [Contribution](#contribution)
 6. 
+7. [Our Roadmap](#Our-Roadmap)
+8. 
 
 
 
@@ -130,6 +132,47 @@ The CosmicGuard app leverages a combination of cutting-edge technologies to achi
     CosmicGuard integrates collaboration platforms that allow space agencies, researchers, and stakeholders to share data, insights, and strategies for coordinated space debris management.
 
 By integrating these technologies, CosmicGuard aims to offer a comprehensive, real-time, and intelligent solution for addressing the challenges posed by space debris in Earth's orbit.
+
+# Contribution 
+
+# CosmicGuard
+
+Welcome to the CosmicGuard project repository! We're excited to have you contribute to the mission of responsible space debris management. Below are guidelines for contributing to CosmicGuard and information about the project's licensing.
+
+## Contribution Guide
+
+We value and encourage contributions from the community to help improve CosmicGuard. Whether you're a developer, designer, researcher, or space enthusiast, there are several ways you can contribute:
+
+### Issues
+
+- **Bug Reports**: If you encounter a bug or unexpected behavior, please open an issue to report it. Provide clear steps to reproduce the issue and any relevant information.
+- **Feature Requests**: Feel free to suggest new features or improvements by opening an issue. Describe the proposed feature and explain its benefits.
+- **Enhancements**: If you have an idea to enhance existing features, create an issue to discuss the details.
+- **Questions and Discussions**: Join the discussion by asking questions or engaging in existing conversations related to CosmicGuard.
+
+### Pull Requests
+
+If you'd like to contribute code or documentation changes, follow these steps:
+
+1. Fork the repository and create a new branch for your contribution.
+2. Make your changes, ensuring clear commit messages that explain the purpose of each commit.
+3. Test your changes to ensure they work as expected.
+4. Submit a pull request to the `main` branch of this repository.
+5. Provide a clear description of the changes and their purpose.
+
+### Code of Conduct
+
+Contributors to CosmicGuard are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to follow the guidelines outlined in the code of conduct.
+
+## License
+
+CosmicGuard is open-source software licensed under the [GNU General Public License v3.0](LICENSE). This license grants you the freedom to use, modify, and distribute the software. Please review the [LICENSE](LICENSE) for more details.
+
+---
+
+Thank you for your interest in contributing to CosmicGuard! Together, we can work towards a safer and sustainable space environment.
+
+For any further questions or clarifications, please contact us at [contact@cosmicguard.org](mailto:contact@cosmicguard.org).
 
 # Our Roadmap
 
