@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/KOSASIH/CosmicGuard/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/codeql.yml)
+
 # CosmicGuard
 **Autonomous Space Debris Detection**
 
