@@ -1,5 +1,5 @@
 [![Lint Code Base](https://github.com/KOSASIH/CosmicGuard/actions/workflows/super-linter.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/super-linter.yml)
-
+[![Jekyll site CI](https://github.com/KOSASIH/CosmicGuard/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/jekyll-docker.yml)
 [![CodeQL](https://github.com/KOSASIH/CosmicGuard/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/codeql.yml)
 
 # CosmicGuard
