@@ -4,18 +4,19 @@
 [![CodeQL](https://github.com/KOSASIH/CosmicGuard/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/codeql.yml)
 
 # CosmicGuard
+
 **Autonomous Space Debris Detection**
 
-# Content 
+# Content
 
 1. [Introduction](#introduction)
-    - [Key Features](#key-features) 
+   - [Key Features](#key-features)
 2. [Vision and Mission](#vision-and-mission)
 3. [Problem We Hope To Solve](#problem-we-hope-to-solve)
 4. [Our Technologies](#our-technologies)
 5. [Contribution](#contribution)
 6. [Our Roadmap](#Our-Roadmap)
-   
+
 # Introduction:
 
 CosmicGuard is an innovative and intelligent solution aimed at addressing the growing concern of space debris around Earth's orbit. The project focuses on developing an autonomous space debris detection system that utilizes cutting-edge artificial intelligence (AI) and image analysis techniques. By leveraging AI algorithms, CosmicGuard aims to identify and track space debris in real-time, contributing to the safety of both operational spacecraft and future space missions.
@@ -44,7 +45,7 @@ CosmicGuard is an innovative and intelligent solution aimed at addressing the gr
 
 **Note:** The CosmicGuard project involves a collaboration between experts in artificial intelligence, aerospace engineering, and space policy. Ensuring the ethical and legal aspects of space debris management will be paramount throughout the project's development and deployment.
 
-# Vision And Mission 
+# Vision And Mission
 
 Here's a possible vision and mission statement for the CosmicGuard app:
 
@@ -54,9 +55,9 @@ To create a safer and sustainable space environment by leveraging cutting-edge t
 **Mission:**
 Our mission is to develop and deploy the most advanced and comprehensive autonomous space debris detection and management platform, CosmicGuard. By harnessing the power of artificial intelligence, sensor fusion, and real-time data analysis, CosmicGuard aims to provide accurate and actionable insights about space debris trajectories, collision risks, and mitigation strategies. We are committed to fostering international cooperation, raising public awareness, and contributing to global efforts for responsible space debris management. Our ultimate goal is to help safeguard both Earth's orbital environment and the continued exploration of the cosmos for current and future generations.
 
- # Problem We Hope To Solve 
+# Problem We Hope To Solve
 
- The CosmicGuard app aims to address several critical challenges in space debris management:
+The CosmicGuard app aims to address several critical challenges in space debris management:
 
 1. **Space Debris Collision Risk Mitigation:**
    With the increasing amount of space debris in Earth's orbit, the risk of collisions with operational satellites and spacecraft is growing. CosmicGuard aims to mitigate collision risks by providing accurate and timely data about space debris trajectories, enabling satellite operators to perform collision avoidance maneuvers.
@@ -135,7 +136,7 @@ The CosmicGuard app leverages a combination of cutting-edge technologies to achi
 
 By integrating these technologies, CosmicGuard aims to offer a comprehensive, real-time, and intelligent solution for addressing the challenges posed by space debris in Earth's orbit.
 
-# Contribution 
+# Contribution
 
 We value and encourage contributions from the community to help improve CosmicGuard. Whether you're a developer, designer, researcher, or space enthusiast, there are several ways you can contribute:
 
@@ -172,7 +173,7 @@ For any further questions or clarifications, please contact us at [contact@cosmi
 
 # Our Roadmap
 
-Here CosmicGuard generalis roadmap: 
+Here CosmicGuard generalis roadmap:
 
 **Phase 1: Foundation and Research (Duration: 6-12 months)**
 
