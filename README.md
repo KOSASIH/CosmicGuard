@@ -1,3 +1,4 @@
+<a href="https://www.codefactor.io/repository/github/kosasih/cosmicguard"><img src="https://www.codefactor.io/repository/github/kosasih/cosmicguard/badge" alt="CodeFactor" /></a>
 [![Lint Code Base](https://github.com/KOSASIH/CosmicGuard/actions/workflows/super-linter.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/super-linter.yml)
 [![Jekyll site CI](https://github.com/KOSASIH/CosmicGuard/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/jekyll-docker.yml)
 [![CodeQL](https://github.com/KOSASIH/CosmicGuard/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/codeql.yml)
