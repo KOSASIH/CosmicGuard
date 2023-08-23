@@ -1,3 +1,4 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/CosmicGuard/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/CosmicGuard/tree/main)
 [![DeepSource](https://app.deepsource.com/gh/KOSASIH/CosmicGuard.svg/?label=active+issues&show_trend=true&token=YnyJeLxYkk3yz4wb1mi1Gux6)](https://app.deepsource.com/gh/KOSASIH/CosmicGuard/?ref=repository-badge)
 [![Greetings](https://github.com/KOSASIH/CosmicGuard/actions/workflows/greetings.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/greetings.yml)
 [![Dependency Review](https://github.com/KOSASIH/CosmicGuard/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/dependency-review.yml)
