@@ -3,8 +3,6 @@
 [![DeepSource](https://app.deepsource.com/gh/KOSASIH/CosmicGuard.svg/?label=active+issues&show_trend=true&token=YnyJeLxYkk3yz4wb1mi1Gux6)](https://app.deepsource.com/gh/KOSASIH/CosmicGuard/?ref=repository-badge)
 [![Greetings](https://github.com/KOSASIH/CosmicGuard/actions/workflows/greetings.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/greetings.yml)
 [![Dependency Review](https://github.com/KOSASIH/CosmicGuard/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/dependency-review.yml)
-<a href="https://www.codefactor.io/repository/github/kosasih/cosmicguard"><img src="https://www.codefactor.io/repository/github/kosasih/cosmicguard/badge" alt="CodeFactor" /></a>
-[![Lint Code Base](https://github.com/KOSASIH/CosmicGuard/actions/workflows/super-linter.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/super-linter.yml)
 [![Jekyll site CI](https://github.com/KOSASIH/CosmicGuard/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/jekyll-docker.yml)
 [![CodeQL](https://github.com/KOSASIH/CosmicGuard/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/CosmicGuard/actions/workflows/codeql.yml)
 
